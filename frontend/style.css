@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    background:black;
+    color:white
+}
+h1{
+    color:dodgerblue;
+    background: pink;
+    font-family: fantasy;
+    font-size:30px;
+    font-style:bold;
+    text-align: center
+}
+
+.whole{
+    color:palevioletred;
+    font-size: 20px;
+    text-align: center;
+    align-content: center}
+.a{
+object-fit: fill}
+.notification{
+    color: black;
+    background:pink;
+    font-size: 20px;
+    font-style:bold;
+    border: 0;
+    padding: 10px;
+    margin-bottom: 10px;
+ }
+table{
+        align-content: center;
+        text-align: center;
+        color: deeppink;
+         
+}
+input[type='submit']{
+    background: blue;
+    color: white;
+    
+    
+}
+button{
+    border:0;
+    background-color: skyblue;
+    padding: 12px;
+    margin: 0px 5px 20px 10px;
+}
+input{
+    border: 0;
+    padding:10px;
+    font-size: 15px
+}
